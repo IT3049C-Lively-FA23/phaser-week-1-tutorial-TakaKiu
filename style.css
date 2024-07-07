@@ -1,0 +1,13 @@
+/* Basic styles */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+#game-container {
+    width: 800px;
+    height: 600px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+}
